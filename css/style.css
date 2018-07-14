@@ -47,6 +47,10 @@ body{
   height: 35px;
 }
 
+/*.logo:hover{
+  animation: moveInRigth 1s ease-out;
+}*//*animaciones en eventos*/
+
 /*centra el titulo del header*/
 .text-box{
   position: absolute;
@@ -85,16 +89,12 @@ body{
 @keyframes moveInLeft{
   0%{
     opacity: 0;
-    transform: translateX(-100px) rotate(0deg);
+    transform: translateX(-100px);
   }
   
-  60%{
-      transform: rotate(180deg);
-  }
-
   80%{
-    transform: translateX(10px); 
-   }
+      transform: translateX(10px); 
+  }
 
   100%{
     opacity: 1;
