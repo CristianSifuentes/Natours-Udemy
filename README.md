@@ -10,3 +10,9 @@ npm init
 
 #Instalar sass con node
 npm install node-sass
+
+#Compliar un archivo scss a css
+node-sass sass/main.scss css/style.css -w
+
+#Instalar live-server
+npm install -g live-server 
