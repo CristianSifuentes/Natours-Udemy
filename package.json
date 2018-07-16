@@ -1,0 +1,22 @@
+{
+  "name": "natours-udemy",
+  "version": "1.0.0",
+  "description": "Natours es un aplicación desarrollada del curso de udemy por Jonas Schmedtmann",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianSifuentes/Natours-Udemy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristianSifuentes/Natours-Udemy/issues"
+  },
+  "homepage": "https://github.com/CristianSifuentes/Natours-Udemy#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.2"
+  }
+}
