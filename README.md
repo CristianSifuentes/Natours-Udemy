@@ -16,3 +16,6 @@ node-sass sass/main.scss css/style.css -w
 
 #Instalar live-server
 npm install -g live-server 
+
+#Iniciar liver-server
+live-server
