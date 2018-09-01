@@ -19,3 +19,8 @@ npm install -g live-server
 
 #Iniciar liver-server
 live-server
+
+#Comandos  git
+git tag
+git status
+git commit -m "x"
