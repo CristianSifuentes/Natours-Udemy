@@ -24,3 +24,4 @@ live-server
 git tag
 git status
 git commit -m "x"
+git push --tags
