@@ -83,7 +83,7 @@ body {
   text-transform: uppercase;
   font-weight: 700;
   display: inline-block;
-  background-image: linear-gradient(to right, #BDAD8C, #623839);
+  background-image: linear-gradient(to right, #8D8978, #272427);
   -webkit-background-clip: text;
   color: transparent;
   letter-spacing: 2px;
@@ -159,15 +159,15 @@ body {
 
 .btn-text:link, .btn-text:visited {
   font-size: 1.6rem;
-  color: #8D6C45;
+  color: #42433F;
   display: inline-block;
   text-decoration: none;
-  border-bottom: 1px solid #8D6C45;
+  border-bottom: 1px solid #42433F;
   padding: 3px;
   transition: all .2s; }
 
 .btn-text:hover {
-  background-color: #8D6C45;
+  background-color: #42433F;
   color: #fff;
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.15);
   transform: translateY(-2px); }
@@ -196,7 +196,7 @@ body {
       left: 20%;
       top: 10rem; }
     .composition__photo:hover {
-      outline: 1.5rem solid #8D6C45;
+      outline: 1.5rem solid #42433F;
       transform: scale(1.05) translateY(-0.5rem);
       box-shadow: 0 2.5rem 4rem rgba(0, 0, 0, 0.5);
       z-index: 20; }
@@ -215,7 +215,7 @@ body {
     font-size: 6rem;
     margin-bottom: .5rem;
     display: inline-block;
-    background-image: linear-gradient(to right, #BDAD8C, #623839);
+    background-image: linear-gradient(to right, #8D8978, #272427);
     -webkit-background-clip: text;
     color: transparent; }
   .feature-box:hover {
@@ -250,7 +250,7 @@ body {
 /*https://s3.amazonaws.com/gndxco/images/background.jpg*/
 .header {
   height: 95vh;
-  background-image: linear-gradient(to right bottom, rgba(189, 173, 140, 0.8), rgba(98, 56, 57, 0.8)), url(../img/wallpaper.jpg);
+  background-image: linear-gradient(to right bottom, rgba(141, 137, 120, 0.8), rgba(39, 36, 39, 0.8)), url(../img/wallpaper.jpg);
   background-size: cover;
   background-position: top;
   position: relative;
@@ -280,7 +280,7 @@ body {
 
 .section-features {
   padding: 20rem 0;
-  background-image: linear-gradient(to right bottom, rgba(189, 173, 140, 0.8), rgba(98, 56, 57, 0.8)), url(../img/nat-4.jpg);
+  background-image: linear-gradient(to right bottom, rgba(141, 137, 120, 0.8), rgba(39, 36, 39, 0.8)), url(../img/photo_2018-09-02_11-22-59.jpg);
   background-size: cover;
   transform: skewY(-7deg);
   margin-top: -10rem; }

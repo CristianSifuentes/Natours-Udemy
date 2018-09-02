@@ -26,6 +26,9 @@ http://linea.io/
 #paleta colores
 http://colormind.io/
 
+#Videos
+https://filmora.wondershare.com
+
 #Comandos  git
 git tag
 git status
