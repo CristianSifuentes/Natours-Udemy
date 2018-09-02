@@ -20,8 +20,12 @@ npm install -g live-server
 #Iniciar liver-server
 live-server
 
+#iconos
+http://linea.io/
+
 #Comandos  git
 git tag
 git status
 git commit -m "x"
+git tag -a v2.0.0 -m "Sección de imagenes terminada"
 git push --tags
