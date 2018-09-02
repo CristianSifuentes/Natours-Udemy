@@ -23,6 +23,9 @@ live-server
 #iconos
 http://linea.io/
 
+#paleta colores
+http://colormind.io/
+
 #Comandos  git
 git tag
 git status
