@@ -26,6 +26,8 @@ http://linea.io/
 #paleta colores
 http://colormind.io/
 
+https://coolors.co
+
 #Videos
 https://filmora.wondershare.com
 
