@@ -18,11 +18,13 @@
         text-align: center;
         cursor: pointer;
 
+        //Acomoda el menu para tableta
         @include respond(tab-port){
             top: 4rem;
             right: 4rem;
         }
 
+        //Acomoda el menu para telefono
         @include respond(phone){
             top: 3rem;
             right: 3rem;
