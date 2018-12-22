@@ -28,7 +28,7 @@ body{
 
 
         @include respond(phone){
-            left: 1rem;
+            letter-spacing: 1rem;
             font-family: 5rem;
         }
 
@@ -44,7 +44,7 @@ body{
     animation: moveInRigth 1s ease-out;
 
         @include respond(phone){
-            left: .5rem;
+            letter-spacing: .5rem;
         }
    }
    
