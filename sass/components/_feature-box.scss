@@ -22,7 +22,7 @@
         color: transparent;
 
         @include respond(tab-port){
-            margin: 0;
+            margin-bottom: 0;
         }
 
 
