@@ -32,6 +32,11 @@ $breakpoint arguement choices:
 ORDER: Base + typography > general layout + grid > page layout > components
 
 1em = 16px
+600px/16px = 37.5em
+900px/16px = 56.25em
+1200px/16px = 75em
+1800px/16px = 112.5em
+
 */
 @mixin respond($breakpoint) {
 
