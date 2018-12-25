@@ -13,6 +13,7 @@ npm install node-sass
 
 #Compliar un archivo scss a css
 node-sass sass/main.scss css/style.css -w
+npm run compile:sass
 
 #Instalar live-server
 npm install -g live-server 
